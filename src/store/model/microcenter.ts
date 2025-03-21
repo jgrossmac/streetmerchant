@@ -578,6 +578,30 @@ for (const microCenterLocation of microCenterLocations) {
         series: '5090',
         url: `https://www.microcenter.com/product/690488/msi-nvidia-geforce-rtx-5090-vanguard-soc-overclocked-triple-fan-32gb-gddr7-pcie-50-graphics-card/?storeid=${storeId}`,
       },
+      {
+        brand: 'gigabyte',
+        model: 'aorus',
+        series: '9070xt',
+        url: `https://www.microcenter.com/product/690005/gigabyte-amd-radeon-rx-9070-xt-aorus-elite-overclocked-triple-fan-16gb-gddr6-pcie-50-graphics-card/?storeid=${storeId}`,
+      },
+      {
+        brand: 'powercolor',
+        model: 'hellhound',
+        series: '9070xt',
+        url: `https://www.microcenter.com/product/689902/powercolor-amd-radeon-rx-9070-xt-hellhound-overclocked-triple-fan-16gb-gddr6-pcie-50-graphics-card/?storeid=${storeId}`,
+      },
+      {
+        brand: 'powercolor',
+        model: 'reaper',
+        series: '9070xt',
+        url: `https://www.microcenter.com/product/689903/powercolor-amd-radeon-rx-9070-xt-reaper-triple-fan-16gb-gddr6-pcie-50-graphics-card/?storeid=${storeId}`,
+      },
+      {
+        brand: 'asrock',
+        model: 'taichi',
+        series: '9070xt',
+        url: `https://www.microcenter.com/product/691099/asrock-amd-radeon-rx-9070-xt-taichi-overclocked-triple-fan-16gb-gddr6-pcie-50-graphics-card/?storeid=${storeId}`,
+      },
     ]);
   }
 }

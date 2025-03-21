@@ -1131,6 +1131,40 @@ export const Amazon: Store = {
       series: '5090',
       url: 'https://www.amazon.com/dp/B0DS2Z8854',
     },
+
+
+    {
+      brand: 'powercolor',
+      cartUrl:
+        'https://www.amazon.com/gp/aws/cart/add.html?ASIN.1=B0CVVLV5TV.1=1',
+      model: 'hellhound',
+      series: '9070xt',
+      url: 'https://www.amazon.com/dp/B0CVVLV5TV',
+    },
+    {
+      brand: 'powercolor',
+      cartUrl:
+        'https://www.amazon.com/gp/aws/cart/add.html?ASIN.1=B0CWD7DNTB.1=1',
+      model: 'red devil',
+      series: '9070xt',
+      url: 'https://www.amazon.com/dp/B0CWD7DNTB',
+    },
+    {
+      brand: 'xfx',
+      cartUrl:
+        'https://www.amazon.com/gp/aws/cart/add.html?ASIN.1=B0DW4G95GG.1=1',
+      model: 'mercury',
+      series: '9070xt',
+      url: 'https://www.amazon.com/dp/B0DW4G95GG',
+    },
+    {
+      brand: 'xfx',
+      cartUrl:
+        'https://www.amazon.com/gp/aws/cart/add.html?ASIN.1=B0DW4H333L.1=1',
+      model: 'swift',
+      series: '9070xt',
+      url: 'https://www.amazon.com/dp/B0DW4H333L',
+    },
   ],
   name: 'amazon',
   country: 'US',

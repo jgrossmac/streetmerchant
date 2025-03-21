@@ -2137,6 +2137,88 @@ export const Newegg: Store = {
       url: 'https://www.newegg.com/p/N82E16814126776',
       itemNumber: '14-126-776',
     },
+    {
+      brand: 'powercolor',
+      cartUrl:
+        'https://secure.newegg.com/Shopping/AddtoCart.aspx?Submit=ADD&ItemList=N82E16814131869',
+      model: 'red devil',
+      series: '9070xt',
+      url: 'https://www.newegg.com/p/N82E16814131869',
+      itemNumber: '14-131-869',
+    },
+    {
+      brand: 'powercolor',
+      cartUrl:
+        'https://secure.newegg.com/Shopping/AddtoCart.aspx?Submit=ADD&ItemList=N82E16814131871',
+      model: 'red devil',
+      series: '9070xt',
+      url: 'https://www.newegg.com/p/N82E16814131871',
+      itemNumber: '14-131-871',
+    },
+    {
+      brand: 'powercolor',
+      cartUrl:
+        'https://secure.newegg.com/Shopping/AddtoCart.aspx?Submit=ADD&ItemList=N82E16814131870',
+      model: 'hellhound',
+      series: '9070xt',
+      url: 'https://www.newegg.com/p/N82E16814131870',
+      itemNumber: '14-131-870',
+    },
+    {
+      brand: 'xfx',
+      cartUrl:
+        'https://secure.newegg.com/Shopping/AddtoCart.aspx?Submit=ADD&ItemList=N82E16814150902',
+      model: 'swift',
+      series: '9070xt',
+      url: 'https://www.newegg.com/p/N82E16814150902',
+      itemNumber: '14-150-902',
+    },
+    {
+      brand: 'xfx',
+      cartUrl:
+        'https://secure.newegg.com/Shopping/AddtoCart.aspx?Submit=ADD&ItemList=N82E16814150900',
+      model: 'swift',
+      series: '9070xt',
+      url: 'https://www.newegg.com/p/N82E16814150900',
+      itemNumber: '14-150-900',
+    },
+
+    {
+      brand: 'asrock',
+      cartUrl:
+        'https://secure.newegg.com/Shopping/AddtoCart.aspx?Submit=ADD&ItemList=N82E16814930136',
+      model: 'steel legend',
+      series: '9070xt',
+      url: 'https://www.newegg.com/p/N82E16814930136',
+      itemNumber: '14-930-136',
+    },
+    {
+      brand: 'gigabyte',
+      cartUrl:
+        'https://secure.newegg.com/Shopping/AddtoCart.aspx?Submit=ADD&ItemList=N82E16814932783',
+      model: 'gaming oc',
+      series: '9070xt',
+      url: 'https://www.newegg.com/p/N82E16814932783',
+      itemNumber: '14-932-783',
+    },
+    {
+      brand: 'asus',
+      cartUrl:
+        'https://secure.newegg.com/Shopping/AddtoCart.aspx?Submit=ADD&ItemList=N82E16814126746',
+      model: 'prime',
+      series: '9070xt',
+      url: 'https://www.newegg.com/p/N82E16814126746',
+      itemNumber: '14-126-746',
+    },
+    {
+      brand: 'asrock',
+      cartUrl:
+        'https://secure.newegg.com/Shopping/AddtoCart.aspx?Submit=ADD&ItemList=N82E16814930135',
+      model: 'taichi',
+      series: '9070xt',
+      url: 'https://www.newegg.com/p/N82E16814930135',
+      itemNumber: '14-930-135',
+    },
   ],
   name: 'newegg',
   country: 'US',
